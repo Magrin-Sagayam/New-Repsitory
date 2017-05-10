@@ -1,0 +1,5 @@
+
+git init
+git status
+git add filename - 
+git add. or add*- for adding into staging
